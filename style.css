@@ -7,10 +7,18 @@ h2{
     text-align: center;
 }
 
-img{
+#kebab{
     text-align:center;
     margin:auto;
     display:flex;
     height:35%;
     width: 35%;
+}
+
+#ketchup{
+    text-align:center;
+    margin:auto;
+    display:flex;
+    height:20%;
+    width: 20%;
 }
