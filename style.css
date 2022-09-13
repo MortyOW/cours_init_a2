@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: green;
+    text-align: center;
+}
+
+img{
+    text-align:center;
+    margin:auto;
+    display:flex;
+    height:35%;
+    width: 35%;
+}
